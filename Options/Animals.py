@@ -119,7 +119,7 @@ def main():
     )
     submit.pack(pady=(10, 20))
 
-#create a Button widget.The text Change the word should appear on the face of the Button.
+#create a Button widget.The text Change word should appear on the face of the Button.
     change = Button(
         text="Change Word",
         width=18,
