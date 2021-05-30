@@ -180,7 +180,7 @@ def start_main_page():
     main_window.resizable(0, 0)
     main_window.title("Find the Word!")
     main_window.configure(background="#20B2AA") 
-    bg = "#f08080"
+   
     
 #inset image  
     img1 = PhotoImage(file="back.png")
