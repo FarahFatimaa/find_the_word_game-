@@ -54,7 +54,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",       #mouse cursor
             command=lambda: start_game(1),    
         )
 #create a button widget.The text 'Body parts' should appear on the face of the Button.
@@ -67,7 +67,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",     #mouse cursor
             command=lambda: start_game(2),
         )
         
@@ -81,7 +81,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",     #mouse cursor
             command=lambda: start_game(3),
         )
         
@@ -95,7 +95,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",   #mouse cursor
             command=lambda: start_game(4),
         )
 
@@ -109,7 +109,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",     #mouse cursor
             command=lambda: start_game(5),
         )
         
@@ -123,7 +123,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",     #mouse cursor
             command=lambda: start_game(6),
         )
 
@@ -137,7 +137,7 @@ def start_main_page():
             font=("Aharoni", 18),
             fg="#000000",
             bg="#f08080",
-            cursor="hand2",
+            cursor="hand2",     #mouse cursor
             command=lambda: start_game(7),
         )
 
