@@ -68,7 +68,7 @@ def main():
     my_window = Tk()
     my_window.geometry("500x500")
     my_window.resizable(0, 0)
-    my_window.title("Find The Word Game!")
+    my_window.title("Find the Word!")
     my_window.configure(background="#20B2AA")
 
 #inser image.    
