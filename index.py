@@ -195,7 +195,7 @@ def start_main_page():
     lab_img.pack(pady=(50, 0))        
     
 #create a button widget.The text 'Start' should appear on the face of the Button. 
-#the show_option method should be executed when the user clicks the Button.
+#the show_option method should be executed when the user clicks on the Button.
     start_btn = Button(
         main_window,text="Start",
         width=18,

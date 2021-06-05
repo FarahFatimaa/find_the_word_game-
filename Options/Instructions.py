@@ -8,11 +8,11 @@ def file():
     infile = open('Steps.txt' , 'w')
     
 #wrie the steps to the file.
-    infile.write("Step 1:Click on start button.\n")
-    infile.write("Step 2:Select any level you want to play.\n")
-    infile.write("Step 3:Write correct answer in label.\n")
-    infile.write("Step 4:Then press submit button.\n")
-    infile.write("Now you are ready.Click arrow and start the game.\n")
+    infile.write("Step 1:Click on Start Button.\n")
+    infile.write("Step 2:Select any option you want to play.\n")
+    infile.write("Step 3:Write correct answer in Label.\n")
+    infile.write("Step 4:Then press Submit Button.\n")
+    infile.write("Now you are ready.Click on arrow and start the game.\n")
     infile.write("Best of luck!\n")
 
 #close the file.    
