@@ -31,7 +31,7 @@ def start_main_page():
             from Options import Vehicles      #import Vehicles file from options folder.
             Vehicles.main()                   #call the main function.
 
-#this function shows buttons to select level of your own choice.
+#this function shows buttons to select any oiption of your own choice.
 #define option function.            
     def option():
 
